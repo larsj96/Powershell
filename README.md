@@ -8,7 +8,7 @@ Documentation for varius scripts
 
 |   Function  |  Description  |
 | ------------- | ------------- |
-| script  | Description  |
+| ConnectedMonitors.ps1  | Deploy this script with SCCM / Group Policy and create a report of connected monitors ( SerialNumber, Manufacturer,WeekOfManufacture etc  |
 
 
 ## TODO 
