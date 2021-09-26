@@ -16,7 +16,7 @@ $timedate = $((Get-Date).ToString('yyyy-MM-dd HH-mm'))
 #WebkameraInorge are just redirecting to correct camera
 $FirstURI = Invoke-WebRequest -Uri "https://www.webkameraerinorge.com/$camera" -UseBasicParsing
 $cameraurl = $FirstURI.Images | Where-Object src -like "*://*" | select -First 1 
-#whacky why to fetch name without specical charathers
+#whacky way to fetch name without specical charathers
 $Filename = "$($cameraurl.alt)" -replace '[\W]', ''
 
 $FirstURItime.Stop()
