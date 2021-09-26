@@ -2,8 +2,6 @@
 Documentation for varius scripts
 
 
-## Getting Started
-
 ## Functions / scripts 
 
 |   Function  |  Description  |
