@@ -13,8 +13,7 @@ Documentation for varius scripts
 | RadioAPI.ps1 | Get list of all currently played music in NORWAY from Bauer media group ( Radio ROCK / KISS / RADIO NORGE ++) used in Azure automation and logic apps |
 | webkameraerinorge.ps1 | Download pictures from https://www.webkameraerinorge.com/| 
 | Convert-ToLatinCharacters.ps1 | from diacritics characters to standard English characters. Diacritic characters are extended or accented characters to the modern latin basic alphabet i.e. A-Z. Scandinavian diacritics such as å,ä and ö should in normalized form become a, a and o. Spanish diacritics should such as ó, ñ and ç should be normalized to o, n and c, this function does that | 
-| epoch.ps1 | function to convert Unix timestamp to "normal time. i.e: epoch -epochTime "1623175200000" -Ms
-gives DateTime      : 08/06/2021 18:00:00 | 
+| epoch.ps1 | function to convert Unix timestamp to "normal time. i.e: epoch -epochTime "1623175200000" -Ms gives DateTime      : 08/06/2021 18:00:00 | 
 
 
 
