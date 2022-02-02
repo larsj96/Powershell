@@ -3,6 +3,9 @@
 # READ THIS LINK TO SETUP AZURE AD / GRAPH API
 # https://www.pipehow.tech/invoke-graphapi/
 
+# also read this if you want to upload big files: https://docs.microsoft.com/en-us/answers/questions/587655/graph-upload-large-file-with-powershell.html
+
+
 #  in SPO site -> library settings > Versioning Settings. At the bottom is a toggle for Require Check Out (if you are struggle with  
 
 
